@@ -13,4 +13,3 @@ xgboost
 yfinance
 lxml
 tensorflow
-pytorch
